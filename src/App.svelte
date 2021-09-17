@@ -40,6 +40,8 @@
     font-size: 13px;
   }
 
+  /* https://svelte.dev/repl/3153faf7584d40bd8ddebecf39f24ac1?version=3.42.6 */
+
   [data-tooltip] {
     position: relative;
   }

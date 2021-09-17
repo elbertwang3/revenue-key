@@ -12,7 +12,7 @@
     },
     {
       "name": "Intergovernmental",
-      "description": "Funding from government entities",
+      "description": "Funding from the federal government, the state, and other local governments. ",
       "color": "#ffca42"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "name": "Hotel, sales, and misc. taxes",
-      "description": "Sales taxes, hotel taxes, real estate transfer taxes and other assorted local taxes. ",
+      "description": "Hotel tax, sales tax, and other local taxes.",
       "color": "#d6f8ff"
     },
     {
@@ -32,8 +32,13 @@
     },
     {
       "name": "Other Revenue",
-      "description": "Miscellaneous revenue",
+      "description": "Revenue from licenses, fines, forfeiture, investment income and other sources. ",
       "color": "#8e8e8e"
+    },
+    {
+      "name": "Unappropriated Fund Balance",
+      "description": "Unspent funds from a prior year that are now being used as revenue. ",
+      "color": "#ffebe3"
     }
   ]
 }
